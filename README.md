@@ -2,7 +2,8 @@
 
 Recommender Systems are divided into 3 broad categories - Content-Based, Collaborative Filtering (CF) and Hybrid Recommender Systems. **Content-based** systems attempt to find similar items based on attributes and recommends them to users based on their history of preference. 
 **Collaborative Filtering**, on the other hand, relies on user and item interactions and disregards item contents. 
-It attempts to find similar users based on similar interactions and recommends items accordingly. Lastly, **Hybrid recommender systems** combine the two techniques mentioned previously, i.e., it leverages both item attributes and user interactions to suggest items. Figure 1 summarizes the different types of recommender systems discussed above.
+It attempts to find similar users based on similar interactions and recommends items accordingly. Lastly, **Hybrid recommender systems** combine the two techniques mentioned previously, i.e., it leverages both item attributes and user interactions to suggest items. 
+
 Here, we briefly survey different recommendation algorithms, and compare their effectiveness on the MovieLens-100K dataset.
 
 ### Dataset
